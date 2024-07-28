@@ -198,3 +198,9 @@ def main():
 
 main()
 
+# git install
+# create a new repo in github
+# git init
+# git add .
+# git commit -m "first commit"
+# git push origin
